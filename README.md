@@ -1,8 +1,9 @@
-# Hi ,I'm Jeeshan Ali
-Btech CSE (AI & ML ) | 1st Year Student
-Learning C Programing
-Interested in Artificial Intelligence & Machine Learning
-Exploring programming and building projects
+#hello
+Hi ,I'm Jeeshan Ali
+Btech CSE (AI & ML ) | 1st Year Student |  
+Learning C Programing  
+Interested in Artificial Intelligence & Machine Learning  
+Exploring programming and building projects  
 ## Skills:
 -Strong base in C lang
 -problem solving
